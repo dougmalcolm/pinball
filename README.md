@@ -158,7 +158,7 @@ After ensuring independent residuals that are normal and homoscedastic about 0, 
 
 Final Model:
 
-**Rating = 1250 + 2(Years Active) + 0.953(Total Events) - 1(Age Started)**
+**Rating = 1249.535 + 2.003(Years Active) + 0.953(Total Events) - 1.025(Age Started)**
 
 ---
 

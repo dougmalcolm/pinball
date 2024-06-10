@@ -165,7 +165,7 @@ We can also look directly at how each of these three variables are correlated wi
 
 Firstly, it is important to acknowledge that filtering for only players with an Age and 5+ Total Events reduced the sample size dramatically. While a smaller n value doesn't invalidate the results, it certainly doesn't help the final model. 
 
-The final model lacks predictive value. With a model R^2 value of 0.276 and a predicted rating v. actual rating scatterplot R^2 value of 0.290, there is simply too much unexplained variance that the model does not capture. Age Started, Total Events, and Years Active do affect rating to a statistically significant. The effects are just simply so small and variable it would be silly to try to accurately predict rating from these three metrics alone.
+The final model lacks predictive value. With a model R<sup>2</sup> value of 0.276 and a predicted rating v. actual rating scatterplot R<sup>2</sup> value of 0.290, there is simply too much unexplained variance that the model does not capture. Age Started, Total Events, and Years Active do affect rating to a statistically significant. The effects are just simply so small and variable it would be silly to try to accurately predict rating from these three metrics alone.
 
 **While Age Started, Total Events, and Years Active have an undeniable correlation with skill level, they don't come close to capturing the full picture of what makes a great pinball player.** 
 

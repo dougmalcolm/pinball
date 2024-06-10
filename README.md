@@ -14,7 +14,7 @@ Bachelor of Science: Mathematics
 
 - SQL, Excel, PowerBI, Tableau, SAS
 - Python (Pandas, Numpy, Matplotlib, Scikit-Learn)
-- Statistical Testing (Multiple Regression Analysis, ANOVA, Hypothesis Testing, Chi-Square GoF)
+- Statistical Testing (Multiple Regression Analysis, ANOVA, Hypothesis Testing)
 
 ---
 

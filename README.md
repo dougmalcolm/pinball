@@ -130,15 +130,18 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 import statsmodels.api as sm
 
+# Sets explanatory variables and dependent variable
 features = ['Age', 'Age Started', 'Years Active', 'Total Events']
 target = 'Rating'
 X = cleaned_data[features]
 y = cleaned_data[target]
 
+# Builds linear regression model using scikit-learn machine learning library
 X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=101)
 Model1 = LinearRegression()
 Model1.fit(X_train, y_train)
 
+# Performs multiple regression test on model to discern significant variables
 Regression = sm.OLS(y, sm.add_constant(X_Model1)).fit()
 Multiple_Regression = Regression.summary()
 print(Multiple_Regression)

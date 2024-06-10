@@ -79,14 +79,14 @@ import requests
 import lxml
 
 for i in range(all_ifpa_players):
-    # Retrives html from IFPA website
+    # Retrives HTML document from IFPA website
     html_text = requests.get('https://www.ifpapinball.com/player.php?p=' + str(i + 1)).text
     soup = BeautifulSoup(html_text, 'lxml')
     
-    # Finds keyword in html I am looking for
+    # Locates the desired keyword within the HTML document 
     total_events = str(soup.find(string="Total Events").findNext("td").text)
     
-    # Writes this text into csv file 
+    # Writes this value into a csv file 
     with open('Local File Path', 'a') as f:
         f.write(total_events + '\n')
 ```

@@ -22,7 +22,7 @@ Bachelor of Science: Mathematics
 
 ## Decoding Pinball Wizardry: A Data-Driven Analysis
 
-<img align="right" src="/assets/edited_wizard.jpeg" width="312" height="417">
+<img align="right" src="/assets/edited_wizard.jpeg" width="225" height="300">
 
 ### Overview
 

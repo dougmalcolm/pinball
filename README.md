@@ -78,8 +78,8 @@ from bs4 import BeautifulSoup
 import requests
 import lxml
 
-# Retrives html from IFPA website
 for i in range(all_ifpa_players):
+    # Retrives html from IFPA website
     html_text = requests.get('https://www.ifpapinball.com/player.php?p=' + str(i + 1)).text
     soup = BeautifulSoup(html_text, 'lxml')
     

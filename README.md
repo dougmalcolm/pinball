@@ -83,7 +83,7 @@ for i in range(all_ifpa_players):
     html_text = requests.get('https://www.ifpapinball.com/player.php?p=' + str(i + 1)).text
     soup = BeautifulSoup(html_text, 'lxml')
     
-    # Finds keywords I am looking for
+    # Finds keyword in html I am looking for
     total_events = str(soup.find(string="Total Events").findNext("td").text)
     
     # Writes this text into csv file 

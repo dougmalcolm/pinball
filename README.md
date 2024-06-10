@@ -6,7 +6,7 @@ LinkedIn:
 
 ### Education
 
-University of Maryland, Baltimore County | *May 2024*
+University of Maryland, Baltimore County | May 2024
 
 Bachelor of Science: Mathematics
 

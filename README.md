@@ -79,15 +79,16 @@ import requests
 import lxml
 
 # Retrives html from IFPA website
-html_text = requests.get('https://www.ifpapinball.com/player.php?p=' + str(i + 1)).text
-soup = BeautifulSoup(html_text, 'lxml')
-
-# Finds keywords I am looking for
-total_events = str(soup.find(string="Total Events").findNext("td").text)
-
-# Writes this text into csv file 
-with open('Local File Path', 'a') as f:
-    f.write(total_events + "\n")
+for i in range(all_ifpa_players):
+    html_text = requests.get('https://www.ifpapinball.com/player.php?p=' + str(i + 1)).text
+    soup = BeautifulSoup(html_text, 'lxml')
+    
+    # Finds keywords I am looking for
+    total_events = str(soup.find(string="Total Events").findNext("td").text)
+    
+    # Writes this text into csv file 
+    with open('Local File Path', 'a') as f:
+        f.write(total_events + "\n")
 ```
 
 This simplified code **extracts and enables us to use the IFPA player data** by using BeatifulSoup, Requests, and lxml libraries to access and parse the website's html. After finding the data we want in the html, we record the data into a cvs file for ease of use. Looping this gave **111,888** rows of data, specifically collecting name, age, years active, total events, rating, and ranking for each competitive pinball player.

@@ -1,20 +1,4 @@
-# Data Analyst Profile
-
 Email: dougmalcolm87@gmail.com
-
-LinkedIn: www.linkedin/in/douglas-malcolm
-
-### Education
-
-University of Maryland, Baltimore County | May 2024
-
-Bachelor of Science: Mathematics
-
-### Skills
-
-- SQL, Excel, PowerBI, Tableau, SAS
-- Python (Pandas, Numpy, Matplotlib, Scikit-Learn)
-- Statistical Testing (Multiple Regression Analysis, ANOVA, Hypothesis Testing)
 
 ---
 

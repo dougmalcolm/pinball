@@ -28,10 +28,10 @@ If you are curious about how to play pinball skillfully and what that actually l
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ch7H19SHkXE&list=PL31W94V2HVSW7ksDyZ_183rUBxiSQon75" target="_blank"> <img src="/assets/vid_pic_new.png" width="355" height="200" border="1" /></a>
 
-Personally, I have been playing in tournaments for 7 years now, and I absoultely love both pinball and thrill of competition. So naturally I was curious... what makes a pinball player great? 
+Personally, I have been playing in tournaments for 7 years now, and I absoultely love both pinball and the thrill of competition. So naturally I was curious... what makes a pinball player great? 
 
 ### The Data
-The International Flipper Pinball Association [(IFPA)](https://www.ifpapinball.com/) is *the* organization that oversees and tracks competitive pinball. It has a webpage for each of its players showing information like name, age, years active, tournament finishes, and rating. Since the IFPA lacks a robust API, I decided to develop my own web scraper in Python to extract all of the relevant player data.
+The International Flipper Pinball Association [(IFPA)](https://www.ifpapinball.com/) is *the* organization that oversees and tracks competitive pinball. It has a webpage for each of its players showing information including name, age, years active, tournament finishes, and rating. Since the IFPA lacks a robust API, I decided to develop my own web scraper in Python to extract all of the relevant player data.
 
 Here is an example player profile:
 

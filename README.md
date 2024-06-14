@@ -24,7 +24,7 @@ In this project I...
 
 Pinball is a mix of skill and luck. Being able to accurately hit the shots you want, regain ball control after wild trajectories, and nudging the machine to affect the ball path are a couple examples of skills that can extend an otherwise short game. At the same time though, one player may immediately drain the ball after missing a shot whereas another player may miss ten shots before the game decides their ball is done. Playing sufficiently many games is where the skill differences shine through though - the bad and good luck balances out and the better player tends to come out on top. This is why players like Jason Zahler and Escher Lefkoff are able to consistently get 1st place at huge 100+ player tournaments; there are enough tournament rounds for their superior pinball skills to shine through the luck. 
 
-If you are curious about how to play pinball skillfully and what that actually looks like, this Youtube playlist from Abe Flips is by far the best resource for learning:
+If you are curious about how to play pinball skillfully and what that actually looks like, this YouTube playlist from Abe Flips is by far the best resource for learning:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ch7H19SHkXE&list=PL31W94V2HVSW7ksDyZ_183rUBxiSQon75" target="_blank"> <img src="/assets/vid_pic_new.png" width="355" height="200" border="1" /></a>
 

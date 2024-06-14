@@ -49,7 +49,7 @@ Total Events | Total number of tournaments
 Rating | Measure of pinball skill; Glicko Rating System					
 Ranking | Measure of pinball skill and dedication; Compares best 15 tournament results
 
-Both Rating and Ranking are measures of pinball skill. Rating will increase from strong tournament finishes and will decrease from weak tournament finishes. Ranking sums your top 15 best tournament results and compares them against everyone else's top 15 best tournament results. As a result, Ranking does not decrease from weak tournament finishes. This ends up inflating the Ranking of players who play in many many tournaments compared to those who player in fewer tournaments. Consequently, I personally subjectively believe that **Rating** is a better measure of pinball skill rather than ranking. Therefore moving forward, we will use Rating as the dependent variable of interest. 
+Both Rating and Ranking are measures of pinball skill. Rating will increase from strong tournament finishes and will decrease from weak tournament finishes. Ranking sums your top 15 best tournament results and compares them against everyone else's top 15 best tournament results. As a result, Ranking does not decrease from weak tournament finishes. This ends up inflating the Ranking of players who play in many many tournaments compared to those who player in fewer tournaments. Consequently, I personally subjectively believe that **Rating** is a better measure of pinball skill rather than ranking. I also find it easier to work with a quantitiative variable, Rating, compared to an ordinal variable, Ranking. Therefore moving forward, we will use Rating as the dependent variable of interest. 
 
 #### Python Web Scraper
 

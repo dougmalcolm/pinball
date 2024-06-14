@@ -158,7 +158,7 @@ The final model lacks predictive value. With the predicted rating v. actual rati
 
 **While Age Started, Total Events, and Years Active have an undeniable correlation with skill level, they don't come close to capturing the full picture of what makes a great pinball player.** 
 
-I suspect what truly leads to pinball greatness is not so easily quantifiable. So I want to hear from you; What do you think makes a great pinball player? If you have experience playing pinball, please fill out this [Google Forms survey](https://forms.gle/APDzK8DGoZY6wsNf9) and share your opinion. With enough responses I may be able to perform a qualitative analysis.  
+I suspect what truly leads to pinball greatness is not so easily quantifiable. So I want to hear from you; what do you think makes a great pinball player? If you have experience playing pinball, please fill out this [Google Forms survey](https://forms.gle/APDzK8DGoZY6wsNf9) and share your opinion. With enough responses I may be able to perform a qualitative analysis.  
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## Decoding Pinball Wizardry: A Data-Driven Analysis
 
-#### Douglas M Malcolm
+#### Author: Douglas M Malcolm
 
 <img align="right" src="/assets/edited_wizard.jpeg" width="225" height="300">
 
